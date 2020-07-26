@@ -1,0 +1,24 @@
+{
+    "name": "e_commerce",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tarang-singhal/e_commerce.git"
+    },
+    "author": "Tarang, Himanshu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Tarang-singhal/e_commerce/issues"
+    },
+    "homepage": "https://github.com/Tarang-singhal/e_commerce#readme",
+    "dependencies": {
+        "ejs": "^3.1.3",
+        "express": "^4.17.1"
+    }
+}
